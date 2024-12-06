@@ -49,8 +49,8 @@ The RMSD of the mimic and the authentic PTM was 1.35. The overall structure is s
 
 
 ### Colab notebook links
-![MD_simulation_Step1.ipynb](data/colab_1/MD_simulation_Step1.ipynb)
-![mdanalysis_colab_Step2.ipynb](data/colab_2/mdanalysis_colab_Step2.ipynb)
+[MD_simulation_Step1.ipynb](data/colab_1/MD_simulation_Step1.ipynb)
+[mdanalysis_colab_Step2.ipynb](data/colab_2/mdanalysis_colab_Step2.ipynb)
 
 
 ## Authors
