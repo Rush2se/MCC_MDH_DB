@@ -76,4 +76,4 @@ This work is licensed under a
 
 ## References
 
-* Zhao, S.; Xu, W.; Jiang, W.; Yu, W.; Lin, Y.; Zhang, T.; Yao, J.; Zhou, L.; Zeng, Y.; Li, H.; Li, Y.; Shi, J.; An, W.; Hancock, S. M.; He, F.; Qin, L.; Chin, J.; Yang, P.; Chen, X.; Lei, Q.; Xiong, Y.; Guan, K.-L. Regulation of Cellular Metabolism by Protein Lysine Acetylation. Science 2010, 327 (5968), 1000–1004.  ![DOI](https://doi.org/10.1126/science.1179689)
+* Zhao, S.; Xu, W.; Jiang, W.; Yu, W.; Lin, Y.; Zhang, T.; Yao, J.; Zhou, L.; Zeng, Y.; Li, H.; Li, Y.; Shi, J.; An, W.; Hancock, S. M.; He, F.; Qin, L.; Chin, J.; Yang, P.; Chen, X.; Lei, Q.; Xiong, Y.; Guan, K.-L. Regulation of Cellular Metabolism by Protein Lysine Acetylation. Science 2010, 327 (5968), 1000–1004.  ![DOI](https://doi.org/10.1126/science.1179689/)
