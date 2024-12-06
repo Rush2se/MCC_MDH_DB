@@ -7,7 +7,7 @@
 
 The modification site addressed is K185 in human malate dehydrogenase two [(P40926)](https://www.uniprot.org/uniprotkb/P40926/entry). This site was mentioned previously in [Zhao and coworkers](https://doi.org/10.1126/science.1179689) from 2010 and focused on mutagenesis, specifically on acetylation, however, there were no findings related to position 185. The study concluded that acetylation plays a prominent role in metabolic regulation1. Further research on lysine acetylation shows that this modification is crucial for regulating enzyme activity, protein interactions, and overall metabolic pathways.
 
-# Part 1 from Project 4 report outline (with citations as appropriate)
+# Comparison of MDH2 models
 
 1. Unmodified MDH2 site
 ![alt text](images/unmodified_site.png)
