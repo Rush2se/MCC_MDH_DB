@@ -19,10 +19,10 @@ The modification site addressed is K185 in human malate dehydrogenase two [(P409
 ## Effect of the sequence variant and PTM on MDH dynamics
 
 1. Alignment of MDH2, PTM MDH2, and mimic variant MDH2
-![alt text](images/Superposed_original_modified_mimic.png)
+![alt text](images/superposed_original_modified_mimic.png)
 
 2. Modification site alignment within MDH2
-![alt text](images/Superposed_changeSite.png)
+![alt text](images/Superposed_ChangeSite.png)
 
 The modification Acetyllysine is the most noticeable change between sequences as it is larger compared to the original lysine and substitution glutamine
 
